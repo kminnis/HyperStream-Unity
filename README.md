@@ -4,12 +4,12 @@ Projects are based on tutorials available on the [Unity](https://unity3d.com/lea
 
 ## 2DRoguelike
 
-Based on the [2D Roguelike tutorial](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial)
+Based on the [2D Roguelike](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial) tutorial.
 Project is a work in progress.
 
 ## Complex Roll a Ball Game
 
-Completed lessons of the [Roll-a-ball tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+Completed lessons of the [Roll-a-ball](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) tutorial
 
 ## Lander
 
@@ -17,7 +17,7 @@ This project was originally developed by [Ciro Continisio](https://blogs.unity3d
 
 ## Roll-a-ball
 
-Based on the [Roll-a-ball tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+Based on the [Roll-a-ball](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) tutorial.
 
 ## Simple Ball Rolling Game
 
@@ -25,8 +25,12 @@ Project is a work in progress.
 
 ## SpaceShooter
 
-Based on the [Space Shooter tutorial](https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
+Based on the [Space Shooter](https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial) tutorial.
 
 ## Tanks
 
-Based on the [Tanks tutorial](https://unity3d.com/learn/tutorials/projects/tanks-tutorial)
+Based on the [Tanks](https://unity3d.com/learn/tutorials/projects/tanks-tutorial) tutorial.
+
+## Survival Shooter
+
+Based on the [Survival Shooter](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial) tutorial.
