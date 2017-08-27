@@ -34,3 +34,7 @@ Based on the [Tanks](https://unity3d.com/learn/tutorials/projects/tanks-tutorial
 ## Survival Shooter
 
 Based on the [Survival Shooter](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial) tutorial.
+
+## 2D UFO
+
+Based on the [2D UFO](https://unity3d.com/learn/tutorials/projects/2d-ufo-tutorial) tutorial.
