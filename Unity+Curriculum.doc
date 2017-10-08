@@ -1,0 +1,479 @@
+Message-ID: <1428712839.9407.1507496477451.JavaMail.conflnc1@USJHAS231>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_9406_1858893032.1507496477451"
+
+------=_Part_9406_1858893032.1507496477451
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Unity Curriculum</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Unity Curriculum</h1>
+    <div class=3D"Section1">
+        <p>This Unity Curriculum is designed to help you provide a year ful=
+l of educational fun for HyperStream IT Club participants. &nbsp;Lessons we=
+re designed for young middle school students and may need modified to accou=
+nt for age and skill level of your club.</p>
+<p>Lessons have been designed to help mentors provide a curriculum in a 'Sh=
+ow it do it' fashion. &nbsp;This means you'll present a step in the lesson,=
+ which shouldn't take more then a few minutes, then students will repeat wh=
+at you did. &nbsp;At the end of each lesson the students should have a func=
+tioning game that they are able to play to some degree. &nbsp;Encourage stu=
+dents to modify the game and see what happens. &nbsp;If they break it compl=
+etely you can always download the projects again.</p>
+<p>Please let Jason Weibel know if you find bugs in the lessons. &nbsp;</p>
+<h1 id=3D"UnityCurriculum-RequiredTools">Required Tools</h1>
+<p>This tools should be downloaded and installed prior to the clubs first m=
+eeting.</p>
+<ul>
+<li>Unity -&nbsp;<a href=3D"https://store.unity.com/download?ref=3Dpersonal=
+" class=3D"external-link" rel=3D"nofollow">https://store.unity.com/download=
+?ref=3Dpersonal</a></li>
+<li>Visual Studio Community 2017
+<ul>
+<li>Mac -&nbsp;<a href=3D"https://www.visualstudio.com/vs/visual-studio-mac=
+/" class=3D"external-link" rel=3D"nofollow">https://www.visualstudio.com/vs=
+/visual-studio-mac/</a></li>
+<li>Windows&nbsp;<a href=3D"https://www.visualstudio.com/downloads/" class=
+=3D"external-link" rel=3D"nofollow">https://www.visualstudio.com/downloads/=
+</a></li>
+</ul></li>
+</ul>
+<h1 id=3D"UnityCurriculum-UnityProjectsSourceCode">Unity Projects Source Co=
+de</h1>
+<p>All projects for this curriculum are available at the following URL. &nb=
+sp;Users familiar with GIT are encouraged to clone the repository. &nbsp;A =
+download option is available for anyone not familiar with GIT.</p>
+<p>Source Code Repository -&nbsp;<a href=3D"https://github.com/jasonweibel/=
+HyperStream-Unity" class=3D"external-link" rel=3D"nofollow">https://github.=
+com/jasonweibel/HyperStream-Unity</a></p>
+<p>Git Basics -&nbsp;<a href=3D"https://www.atlassian.com/git" class=3D"ext=
+ernal-link" rel=3D"nofollow">https://www.atlassian.com/git</a></p>
+<h1 id=3D"UnityCurriculum-Goal">Goal</h1>
+<p>This curriculum was designed to expose middle school students to softwar=
+e development concepts while creating video games. &nbsp;Although Unity is =
+the focal point of making the games real the lessons focus on C# code and u=
+sing the Visual Studio editor. &nbsp;Our hope is that students will come to=
+ understand simple programming concepts and how they affect the game.</p>
+<h1 id=3D"UnityCurriculum-Curriculum">Curriculum</h1>
+<p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col style=3D"width: 7.68322%;">
+<col style=3D"width: 8.98345%;">
+<col style=3D"width: 83.3333%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Month</th>
+<th class=3D"confluenceTh">Session</th>
+<th class=3D"confluenceTh">Content</th>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">September</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Roll-a-ball+Game+-=
++Lesson+1+-+Moving+the+Player">Roll-a-ball Game - Lesson 1</a></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">2</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Roll=
+-a-ball+Game+-+Lesson+2+-+Creating+Collectable+Objects">Roll-a-ball Game - =
+Lesson 2</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Roll-a-ball+Game+-=
++Lesson+3+-+Collecting+the+Pick+Up+Objects">Roll-a-ball Game - Lesson 3</a>=
+</td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">October</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Roll-a-ball+Game+-=
++Lesson+4+-+Displaying+the+Score+and+Text">Roll-a-ball Game - Lesson 4</a><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">2</td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Land=
+er+Lesson+1+-+Setup+Scene">Lander Game - Lesson 1</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Lander+Lesson+2+-+=
+Setup+Player+Movements">Lander Game - Lesson 2</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">4</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Lander+Lesson+3=
++-+Add+Destroy+Action+Scripts">Lander Game - Lesson 3</a></p></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">November</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Space+Shooter+-=
++Lesson+1+-+Set+Background+and+Moving+of+the+Player">Space Shooter Game - L=
+esson 1</a></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Space+Shooter+-=
++Lesson+2+-+Shooting+shots">Space Shooter Game - Lesson 2</a></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Space+Shooter+-+Le=
+sson+3+-+Spawning+Waves">Space Shooter Game - Lesson 3</a></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">December</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">January</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Tanks+Game+-+Le=
+sson+1+-+Add+Tank+Movement">Unity Tanks Game - Lesson 1 - Add Tank Movement=
+</a></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Tanks+Game+-+Le=
+sson+2+-+Add+Shell+Creation+and+Firing">Unity Tanks Game - Lesson 2 - Add S=
+hell Creation and Firing</a></p></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">February</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/HYP/Unity+Tanks+Game+-+Le=
+sson+3+-+Add+Tank+Health">Unity Tanks Game - Lesson 3 - Add Tank Health</a>=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Tanks+Game+-+Lesso=
+n++4+-+Add+Audio+Mixing">Unity Tanks Game - Lesson 4 - Add Audio Mixing</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Survival+Shooter+G=
+ame+-+Lesson+1+-+Player+Character">Unity Survival Shooter Game - Lesson 1 -=
+ Player Character</a></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">March</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Survival+Shooter+G=
+ame+-+Lesson+2+-+Camera+Setup">Unity Survival Shooter Game - Lesson 2 - Cam=
+era Setup</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Survival+Shooter+G=
+ame+-+Lesson+3+-+Spawning+Enemies">Unity Survival Shooter Game - Lesson 3 -=
+ Spawning Enemies</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><a href=3D"/display/HYP/Unity+Survival+Shooter+G=
+ame+-+Lesson+4+-+Player+Health">Unity Survival Shooter Game - Lesson 4 - Pl=
+ayer Health</a></td>
+</tr>
+<tr>
+<th colspan=3D"3" class=3D"confluenceTh">April</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd"><a href=3D"/pages/viewpage.action?pageId=3D34115=
+220">Unity Survival Shooter Game - Lesson 5 - Scoring Points &amp; Game Ove=
+r</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">3</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_9406_1858893032.1507496477451--
